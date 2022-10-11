@@ -1,0 +1,5 @@
+﻿  FormL.cpp
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\FormL.h(222,20): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\FormL.cpp(9,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  FormL.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Loban_Project_TxPrZS.vcxproj -> \\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\x64\Debug\Loban_Project_TxPrZS.exe

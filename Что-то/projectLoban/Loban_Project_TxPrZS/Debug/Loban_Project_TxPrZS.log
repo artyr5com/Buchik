@@ -1,0 +1,27 @@
+﻿  FormL.cpp
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\FormL.h(224,20): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MainForm.h(395,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MainForm.h(417,34): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MainForm.h(421,43): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MainForm.h(425,46): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MainForm.h(429,36): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MainForm.h(433,40): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MainForm.h(452,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(452,21): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(482,8): warning C4101: rowcount: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(493,35): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(497,44): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(501,47): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(505,37): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(509,41): warning C4101: e: неиспользованная локальная переменная
+  MyForm.cpp
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(452,21): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(482,8): warning C4101: rowcount: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(493,35): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(497,44): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(501,47): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(505,37): warning C4101: e: неиспользованная локальная переменная
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\MyForm.h(509,41): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+  FormL.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Loban_Project_TxPrZS.vcxproj -> \\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\Debug\Loban_Project_TxPrZS.exe

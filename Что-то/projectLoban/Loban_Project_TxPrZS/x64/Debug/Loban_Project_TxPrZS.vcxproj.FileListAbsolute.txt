@@ -1,0 +1,4 @@
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\x64\Debug\Loban_Project_TxPrZS.vcxproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\x64\Debug\LobanProjectTxPrZS.FormL.resources
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\x64\Debug\Loban_Project_TxPrZS.vcxproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\me\кну\ТПЗС %\projectLoban\Loban_Project_TxPrZS\x64\Debug\Loban_Project_TxPrZS.exe
